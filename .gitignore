@@ -1,0 +1,4 @@
+# Project exclude paths
+/PortionSize/data/
+/PortionSize/notebooks/notebookData/
+/PortionSize/notebooks/createdNotbookData/
